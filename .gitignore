@@ -28,3 +28,6 @@ analysis/raw/**/*.res
 /analysis/
 /docs/
 /release
+
+# Machine-local development tools and account configuration.
+/.local/
